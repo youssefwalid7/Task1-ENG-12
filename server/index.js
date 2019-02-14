@@ -6,7 +6,9 @@ const students = [
     { id: "21-094123", name: "Mathew White", github_username: "matheww", email: "matheww@whatever.com" },
     { id: "15-10312", name: "Dom Sundle", github_username: "domss", email: "domss.whatever.com" },
     { id: "7223", name: "Gehad Ismail", github_username: "Gehad93", email: "gehad.ismail@guc.edu.eg" },
-    { id:"40-3622", name:'Youssef Walid Abselrahman', github_username: "youssefwalid7", email: "youssef.omar@student.guc.edu.eg"},
+    { id:"40-3622", name:'Youssef Walid Abdelrahman', github_username: "youssefwalid7", email: "youssef.omar@student.guc.edu.eg"},
+    { id:"40-3622", name:'Youssef Walid Abdelrahman', github_username: "youssefwalid7", email: "youssef.omar@student.guc.edu.eg"},
+    { id:"40-3622", name:'Youssef Walid Abdelrahman', github_username: "youssefwalid7", email: "youssef.omar@student.guc.edu.eg"},
 
 ];
 
